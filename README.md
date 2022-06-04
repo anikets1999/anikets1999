@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aniket Sonawane 
-- 👀 I’m an 2021 Engineering graduated and interested in Python,Django and Web Developement
+- 👀 I’m interested in Python,Database,Django and Web Developement
 - 📫 aniket11sonawane@gmail.com
 
 <!---
